@@ -1,3 +1,4 @@
+#!/usr/bin/env fish
 
 function eval -S -d "Evaluate parameters as a command"
 
