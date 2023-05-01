@@ -1,3 +1,5 @@
+#!/usr/bin/env fish
+
 function funced --description 'Edit function definition'
     set -l editor $EDITOR
     set -l interactive
