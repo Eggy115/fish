@@ -1,3 +1,5 @@
+#!/usr/bin/env fish
+
 #
 # Main file for fish command completions. This file contains various
 # common helper functions for the command completions. All actual
